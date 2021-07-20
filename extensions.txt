@@ -1,0 +1,14 @@
+설치해야할 익스텐션들
+
+1. git extension pack
+2. git flow
+3. HTML CSS Support
+4. Material Theme
+5. Material icon Theme
+6. Auto Rename Tag
+7. HTML to CSS autocmpletion
+8. CSS Peek 
+9. Autoprefixer
+10. Bracket Pair colorizer 2 
+11. indent-rainbow
+12. Live Server
